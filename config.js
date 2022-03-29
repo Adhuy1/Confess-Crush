@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Anh có phải là người xấu xí nhất thiên hạ ko 🥰',
     desc: 'Phải chăng là như vậy        ',
-    btnYes: 'Xấu lắm <33',
+    btnYes: 'Xấu lắm nha <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn nói mình xấu <3',
     btnReply: 'Gửi cho bạn <3',
