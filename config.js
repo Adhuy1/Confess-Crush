@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Anh Mơ À :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại nói anh đẹp trai nhất <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'vì anh đep trai 😂',
+    reply: 'vì anh đẹp trai 😂',
     mess: 'anh biết mà 😘😘',
     messDesc: 'ib cho anh đi ;)).',
     btnAccept: 'Chấp Nhận <3',
